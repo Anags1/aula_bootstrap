@@ -1,0 +1,37 @@
+body {
+    font: 20px arial, sans-serif;
+}
+
+.navbar {
+    background-color: #2c2b2b;
+    color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.quem-somos {
+    background-color: black;
+    color: #fff;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.nossa-equipe {
+    background-color: #2c2b2b;
+    color: #fff;
+}
+
+.orcamentos {
+    background-color: black;
+    color: #fff;
+}
+
+.bg-footer {
+    background-color: black;
+    color: rgba(73, 73, 71, 0.931);
+}
